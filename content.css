@@ -38,6 +38,12 @@ div.header {
   border-color: #ef4e7b #e5e5e5 transparent !important;
 }
 
+.social-count {
+  background-color: transparent !important;
+  color: rgb(128, 189, 189) !important;
+  border-color: rgb(128, 189, 189) !important;
+}
+
 
 /****** BODY *********/
 .boxed-group > h3, .commit-tease {
