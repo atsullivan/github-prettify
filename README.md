@@ -1,1 +1,4 @@
-# Github Prettify
+# GitHub Prettify
+A GitHub Universe inspired theme.
+
+![screenshot](screenshot.png)

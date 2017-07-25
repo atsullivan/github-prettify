@@ -1,7 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "Github Prettify",
-  "version": "0.1",
+  "name": "GitHub Prettify",
+  "version": "0.0.1",
+
+  "browser_action": {
+   "default_icon": "icon.png"
+  },
+
   "content_scripts": [
     {
       "matches": [
@@ -11,6 +16,6 @@
       "css": ["content.css"]
     }
   ],
-  "description": "Add a colorful theme to Github",
+  "description": "A GitHub Universe inspired theme for any GitHub pages.",
   "author": "atsullivan"
 }
